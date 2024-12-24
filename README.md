@@ -1,6 +1,6 @@
 # Resume/Portfolio Website
 
-This project is a responsive and visually appealing resume/portfolio website designed to showcase personal and professional details. It includes sections for introduction, experience, education, skills, interests, and awards.
+This project is a responsive and visually appealing resume/portfolio website designed to showcase personal and professional details. It includes sections for introduction, experience, education, skills, interests, and awards
 
 ## Features
 
