@@ -10133,3 +10133,14 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+/* Additional Spacing for Sections */
+.resume-section {
+    margin-bottom: 50px;
+}
+
+/* Enhance readability with slightly larger font size */
+body {
+    font-size: 16px;
+    line-height: 1.6;
+}
